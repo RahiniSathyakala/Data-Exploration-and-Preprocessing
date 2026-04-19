@@ -58,7 +58,12 @@ This project focuses on exploring and preprocessing a restaurant dataset to unde
 - Dataset is clean after removing missing values  
 
 ## 📷 Output
-(Add your histogram screenshot here)
+<img width="1828" height="907" alt="Image" src="https://github.com/user-attachments/assets/efce9c8b-7a0e-4b18-8013-2dbc6bd8f973" />
+<img width="1479" height="951" alt="Image" src="https://github.com/user-attachments/assets/bb30775b-d2bd-4252-b250-c90cf83d3212" />
+<img width="1504" height="947" alt="Image" src="https://github.com/user-attachments/assets/a3f8a960-7a5e-4058-bb7b-8532611bfd2a" />
+<img width="1481" height="961" alt="Image" src="https://github.com/user-attachments/assets/92fe25e0-e03d-4c04-a1b2-e458faebc77f" />
+<img width="1483" height="958" alt="Image" src="https://github.com/user-attachments/assets/e23ef1a6-9a63-450b-a6d0-46480cae8b2f" />
+<img width="1476" height="912" alt="Image" src="https://github.com/user-attachments/assets/555e6957-6a95-41e5-b9c3-3484a8fcf029" />
 
 ## 🚀 Conclusion
 This task helped in understanding the dataset structure, handling missing values, and performing basic exploratory data analysis. It forms the foundation for further data science tasks like modeling and prediction.
